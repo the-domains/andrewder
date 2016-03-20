@@ -1,4 +1,4 @@
-name: AndrewDer
+name: Andrew Der
 favicon: null
 layout_spectrum: 0.14477308746427298
 typography_spectrum: 0.06777086458168924
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#7f7f7f'
+    - '#4f6da0'
+    - '#dfdfdf'
+    - '#b7b7b7'
   brandStrength: 0.829837211407721
   lightness: 0.9253799356520176
   saturation: 0.6361017287708819
