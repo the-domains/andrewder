@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AndrewDer]]></title>
-        <description><![CDATA[AndrewDer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Andrew Der]]></title>
+        <description><![CDATA[Andrew Der]]></description>
+        <link>https://thegrid.ai/andrewder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 23:25:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 23:55:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andrewder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quotable]]></title>
+            <description><![CDATA[<article><h1>Quotable</h1><p>Some links to past articles that I've been quoted in. They're fairly old, yet surprisingly still relevant.</p></article>]]></description>
+            <link>https://thegrid.ai/andrewder/some-links-to-past-articles-that-ive-been-quoted-in-theyr/index.html</link>
+            <guid isPermaLink="false">eda87dc8-1481-409e-9935-4868b864ce77</guid>
+            <pubDate>Sun, 20 Mar 2016 23:55:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<article><h1>About Me</h1><p>I am a Digital Innovation Strategist and Marketer tasked, most recently, with bringing emerging technologies into the enterprise organization to drive growth and create better customer experiences. I have over 14 years of experience in Strategy, Innovation, Digital Marketing, and Emerging Technologies focusing primarily in consumer, web, and mobile products.</p></article>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>https://thegrid.ai/andrewder/about-me/index.html</link>
             <guid isPermaLink="false">90b94fe5-97dd-4c06-9e4a-b96e41900a60</guid>
             <pubDate>Sun, 20 Mar 2016 23:25:48 GMT</pubDate>
         </item>
