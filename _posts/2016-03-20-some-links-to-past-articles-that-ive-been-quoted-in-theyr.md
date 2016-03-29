@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Some links to past articles that I've been quoted in. They're fairly old, yet surprisingly still relevant."
-datePublished: '2016-03-20T23:55:03.821Z'
-dateModified: '2016-03-20T23:54:39.091Z'
+datePublished: '2016-03-29T03:55:03.346Z'
+dateModified: '2016-03-20T23:56:36.893Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-20-some-links-to-past-articles-that-ive-been-quoted-in-theyr.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-some-links-to-past-articles-that-ive-been-quoted-in-theyr.md
-published: true
 url: some-links-to-past-articles-that-ive-been-quoted-in-theyr/index.html
 _type: Article
 
